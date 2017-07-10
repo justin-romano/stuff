@@ -48,8 +48,7 @@ main.d main.o: .././main.cpp ..\\..\ArduinoCore\include\core/Arduino.h \
  ../LibCpp/ArdusatSDK/utility/serial.h \
  ..\\..\ArduinoCore\include\core/HardwareSerial.h \
  ..\\..\ArduinoCore\include\core/Stream.h \
- ../LibCpp/ArdusatSDK/utility/SoftwareSerial.h \
- ../LibCpp/br3ttb-Arduino-PID-Library-5adeed5/PID_v1.h
+ ../LibCpp/ArdusatSDK/utility/SoftwareSerial.h
 
 ..\\..\ArduinoCore\include\core/Arduino.h:
 
@@ -154,5 +153,3 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\
 ..\\..\ArduinoCore\include\core/Stream.h:
 
 ../LibCpp/ArdusatSDK/utility/SoftwareSerial.h:
-
-../LibCpp/br3ttb-Arduino-PID-Library-5adeed5/PID_v1.h:
